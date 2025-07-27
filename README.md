@@ -6,8 +6,7 @@
 
 A stunning, feature-rich weather application with beautiful animations and intuitive interface. Built with pure HTML, CSS, and JavaScript.
 
-![Elite Weather App Screenshot in Rain prediction](![Uploading rain.png…]()
-)
+![Elite Weather App Screenshot in Rain prediction](rain.png =600x400)
 
 ## ✨ Features
 
