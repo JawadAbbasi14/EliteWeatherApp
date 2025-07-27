@@ -1,7 +1,7 @@
 
 # 🌦️ Elite Weather App
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://jawadabbasi14.github.io/EliteWeatherApp-/)
+[![Live Demo](https:/Live-Demo-brightgreen)](https://jawadabbasi14.github.io/EliteWeatherApp-/)
 [![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
 
 A stunning, feature-rich weather application with beautiful animations and intuitive interface. Built with pure HTML, CSS, and JavaScript.
