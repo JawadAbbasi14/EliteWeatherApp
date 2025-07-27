@@ -54,16 +54,11 @@ cd EliteWeatherApp-
 
 | Light Mode | Dark Mode |
 |------------|-----------|
-| ![Light Mode](<img width="1334" height="601" alt="lightmode" src="https://github.com/user-attachments/assets/dcd1238c-36e4-4545-bed8-84a39e58d56e" />
-) | ![Dark Mode](<img width="1345" height="600" alt="darkmode" src="https://github.com/user-attachments/assets/d496b46d-8b66-4d5d-9276-3af86e894c5e" />
-) |
+| <img width="300" alt="Light Mode" src="https://github.com/user-attachments/assets/dcd1238c-36e4-4545-bed8-84a39e58d56e"> | <img width="300" alt="Dark Mode" src="https://github.com/user-attachments/assets/d496b46d-8b66-4d5d-9276-3af86e894c5e"> |
 
 | Desktop | Mobile |
 |---------|--------|
-| ![Desktop](<img width="342" height="220" alt="desktop" src="https://github.com/user-attachments/assets/12bd93aa-40e2-4dd1-b40f-f9fdedfe906d" />
-) | ![Mobile](<img width="124" height="215" alt="mobile" src="https://github.com/user-attachments/assets/c2215c4a-7dbc-4bef-8751-d2920af8a649" />
-) |
-
+| <img width="300" alt="Desktop" src="https://github.com/user-attachments/assets/12bd93aa-40e2-4dd1-b40f-f9fdedfe906d"> | <img width="150" alt="Mobile" src="https://github.com/user-attachments/assets/c2215c4a-7dbc-4bef-8751-d2920af8a649"> |
 ## 🌈 Weather Conditions
 
 The app beautifully displays different weather conditions:
